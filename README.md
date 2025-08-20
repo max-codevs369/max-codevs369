@@ -1,4 +1,6 @@
-# 👋 Halo Dunia! Kami adalah Max-Codevs  
+ 
+
+![Header](img/profile.png)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
@@ -27,13 +29,19 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang siap membangun 
 
 ---
 
-## 💡 Goals & Visi  
+## 💡 Tujuan & Visi  
 
 - Kami ingin terus belajar dan berkembang menjadi tim **fullstack & software development** yang handal.  
 - Membuat **open-source tools** yang bermanfaat untuk teman-teman developer dan komunitas IT.  
 - Memperluas pengalaman dan **kolaborasi**, termasuk proyek-proyek internasional di masa depan.  
 - Terus menjadi lebih baik setiap hari dan siap menghadapi tantangan dunia teknologi.
  
+ ---
+
+ ## 💬 Motto Tim
+
+*"Belajar, Berkarya, dan Berbagi — Setiap hari menjadi lebih baik di dunia teknologi."*
+
 
 ---
 
