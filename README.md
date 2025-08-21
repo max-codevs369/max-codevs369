@@ -31,6 +31,7 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+
 ---
 
 ## 🎯 Visi & Misi  
@@ -72,6 +73,18 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 
 ---
 
+## 📌 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max-codevs369&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max-codevs369&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max-codevs369&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-codevs369&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-codevs369&theme=radical&utcOffset=8" />
+</p>
+
+---
+
 ## 🎮 Fun Animation Zone  
 
 <p align="center">
@@ -80,6 +93,16 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 </p>
 
 ---
+
+## 📊 Visitor Counter & Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=max-codevs369&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://hits.sh/github.com/max-codevs369.svg?style=for-the-badge&label=visitors&color=blue" />
+</p>
+
+---
+
 
 ## 🌐 Connect with Us  
 
@@ -95,3 +118,4 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 ---
 
 <p align="center">✨ <b>Max-Codevs369</b> — Coding, Creating, Animating & Collaborating for the Future 🚀</p>
+
