@@ -44,16 +44,6 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 ---
 
 
-## 🎯 Roadmap / Goals  
-
-- 🔨 Next: Implement AI Features ![Progress](https://img.shields.io/badge/Progress-40%25-yellow)
-- 📱 Mobile App Version ![Progress](https://img.shields.io/badge/Progress-70%25-blue)
-- 🌐 Expand Open Source Contributions ![Progress](https://img.shields.io/badge/Progress-30%25-red)
-- 🤖 Learn More About Machine Learning ![Progress](https://img.shields.io/badge/Progress-20%25-green)
-
----
-
-
 ## 📊 Statistik GitHub  
 
 <p align="center">
