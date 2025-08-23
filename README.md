@@ -24,7 +24,7 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,nodejs,java,cs,git,github,vscode,bootstrap,postman,tailwind&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,dart,laravel,mysql,react,nodejs,java,flutter,cs,git,github,vscode,bootstrap,postman,tailwind&perline=8" />
 </p>
 
 <p align="center">
