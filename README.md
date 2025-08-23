@@ -43,15 +43,6 @@ Kami adalah **Max-Codevs** — tim developer penuh semangat yang membangun proje
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=max-codevs369&theme=radical)
-</div>
-
-
----
-
 
 ## 📊 Statistik GitHub  
 
